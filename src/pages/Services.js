@@ -1,13 +1,14 @@
 import Base from "../components/Base";
-const Home = () => {
+
+const Services = () => {
     return (
         <div>
             <Base>
-            <h1>Home Page</h1>
-            <p>Welcome to Paulsofts</p>
+                <h1>Service Page</h1>
             </Base>
         </div>
+        
     );
 }
 
-export default Home;
+export default Services;
